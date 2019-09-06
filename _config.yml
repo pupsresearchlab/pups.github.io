@@ -80,14 +80,14 @@ analytics:
 
 # Site Author
 author:
-  name             : "YBailey Kacsmar"
+  name             : "Bailey Kacsmar"
   avatar           : "profile.png"
   bio              : "PhD student at the University of Waterloo"
   location         : "Waterloo, Canada"
   employer         :
-  pubmed           : ""
+  pubmed           : #""
   googlescholar    : "https://scholar.google.ca/citations?hl=en&user=QZLnUAzKwpcC"
-  email            :
+  email            : "bkacsmar@uwaterloo.ca
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
