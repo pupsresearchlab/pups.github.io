@@ -79,15 +79,15 @@ analytics:
 
 
 # Site Author
-  author           :
-  name             : "Bailey Kacsmar"
+author:
+  name             : "Your Sidebar Name"
   avatar           : "profile.png"
-  bio              : "PhD student at the University of Waterloo"
+  bio              : "Your biography for the left-hand sidebar"
   location         : "Waterloo, Canada"
   employer         :
-  pubmed           : #""
-  googlescholar    : "https://scholar.google.ca/citations?hl=en&user=QZLnUAzKwpcC"
-  email            : "bkacsmar@uwaterloo.ca
+  pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  googlescholar    : "http://yourfullgooglescholarurl.com"
+  email            :
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -309,3 +309,4 @@ compress_html:
   clippings: all
   ignore:
     envs: development
+
