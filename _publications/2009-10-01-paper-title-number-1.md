@@ -10,4 +10,4 @@ citation: 'Your Name, You. (2009). &quot; Computing Low-Weight Discrete Logarith
  
 [Download paper here](https://eprint.iacr.org/2017/720.pdf)
 
-Recommended citation: Bailey KacsmarSarah Plosker, Ryan Henry. (2009). "Computing Low-Weight Discrete Logarithms." <i>Journal 1</i>. 1(1).
+Recommended citation: Bailey Kacsmar, Sarah Plosker, Ryan Henry. (2009). "Computing Low-Weight Discrete Logarithms." <i>Journal 1</i>. 1(1).
