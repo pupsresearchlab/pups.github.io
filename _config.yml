@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : "Bailey Kacsmar"
 title_separator          : "-"
-name                     : &name "Bailey Kacsmar"
+name                     : &name "Bailey "
 description              : &description "PhD student at the University of Waterloo"
 url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -80,13 +80,13 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Sidebar Name"
+  name             : "Bailey Kacsmar"
   avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
+  bio              : "PhD student at the University of Waterloo"
   location         : "Waterloo, Canada"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
+  googlescholar    : "https://scholar.google.ca/citations?hl=en&user=QZLnUAzKwpcC"
   email            :
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
