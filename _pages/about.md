@@ -13,15 +13,9 @@ My research interests are cryptography and its applications with my current focu
 
 I received a Masters of Mathematics from the University of Waterloo. My masters thesis was on combinatorial cryptography, supervised by [Doug Stinson](https://cs.uwaterloo.ca/~dstinson/).
 
-
-
-<div class="row">
-  <div class="column">
-   <img src="/files/crysp-logo-word-clearbg-blackfg.png" alt="CrySP Logo" width="250"> 
-  </div>
-  <div class="column">
-    <img src="/files/UniversityOfWaterloo_logo_horiz_rgb.png" alt="CrySP Logo" width="250">
-  </div>
-</div>
-
+ 
+<img src="/files/crysp-logo-word-clearbg-blackfg.png" alt="CrySP Logo" width="225" hspace="25"> 
+ 
+<img src="/files/UniversityOfWaterloo_logo_horiz_rgb.png" alt="Waterloo Logo" width="275">
+ 
 
