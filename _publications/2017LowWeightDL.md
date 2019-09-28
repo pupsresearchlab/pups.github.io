@@ -1,5 +1,5 @@
 ---
-title: 
+title: ""
 collection: publications
 permalink: https://bkacsmar.github.io/files/Low_weight_DLP_ext.pdf
 date: 2017-08-16
