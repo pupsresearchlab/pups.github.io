@@ -6,8 +6,9 @@ author_profile: true
 
 <h2>Teaching Education</h2>
 
-[Fundamentals of University Teaching](https://uwaterloo.ca/centre-for-teaching-excellence/support-graduate-students/fundamentals-university-teaching-program/), Centre for Teaching Excellence, University of Waterloo. 2017.
+[Fundamentals of University Teaching](https://uwaterloo.ca/centre-for-teaching-excellence/support-graduate-students/fundamentals-university-teaching-program/), Centre for Teaching Excellence, University of Waterloo. Completed 2017.
 <br>
+
 [Certificate in University Teaching](https://uwaterloo.ca/centre-for-teaching-excellence/support-graduate-students/certificate-university-teaching/), Centre for Teaching Excellence, University of Waterloo. --In progress--
 
 
