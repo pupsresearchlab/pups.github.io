@@ -1,5 +1,4 @@
 ---
-title: "Computing Low-Weight Discrete Logarithms "
 collection: publications
 permalink: https://link.springer.com/chapter/10.1007/978-3-319-72565-9_6
 date: 2017-08-16
