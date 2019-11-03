@@ -6,11 +6,9 @@ author_profile: true
 
 <h2>Peer-Reviewed Journal Publications</h2>
 <b>Bailey Kacsmar</b>, Chelsea Komlo, Florian Kerschbaum, Ian Goldberg. &quot; Mind the Gap: Ceremonies for Applied Secret Sharing. &quot; <i> Proceedings on Privacy Enhancing Technologies</i>. Vol. 2020, No. 2. 18 pages. April 2020.
-
 <br>
 
 <b>Bailey Kacsmar</b>, Douglas R. Stinson. &quot;[A Network Reliability Approach to the Analysis of Combinatorial Repairable Threshold Schemes](https://bkacsmar.github.io/files/networkReliability.pdf).&quot; <i>Advances in Mathematics of Communications, 2019</i>, 13 (4) : 601-612. doi: 10.3934/amc.2019037.
-
 <br>
 
 Chenkuan Li, Changpin Li, <b>Bailey Kacsmar</b>, Roque Lacroix and Kyle Tilbury. &quot;[The Abel Integral Equations in Distribution](https://bkacsmar.github.io/files/abelIntegral.pdf)&quot;, Advances in Analysis, 2 (2017), pages 88-104.DOI:10.2206/aan.
@@ -25,14 +23,9 @@ Chenkuan Li, Changpin Li, <b>Bailey Kacsmar</b>, Roque Lacroix and Kyle Tilbury.
 
 
 
-
-
 <h2>Theses</h2>
 [Designing Efficient Algorithms for Combinatorial Repairable Threshold Schemes](https://bkacsmar.github.io/files/DesigningEfficientAlgo.pdf). UWSpace: MMath
 thesis, University of Waterloo, Waterloo, ON, Canada (October 2018).
-
-
-
 
 
 
