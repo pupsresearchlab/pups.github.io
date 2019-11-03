@@ -19,6 +19,7 @@ Chenkuan Li, Changpin Li, <b>Bailey Kacsmar</b>, Roque Lacroix and Kyle Tilbury.
 "State-Level Secrets: When Theory Meets Practice for Journalists Working with Encrypted Documents", Real World Cryptography 2019, San Jose, California, United States. (January 2019). Co-presenter: Chelsea Komlo
 
 
+
 <h2>Peer-Reviewed Conference Publications</h2>
 <b>Bailey Kacsmar</b>, Sarah Plosker, Ryan Henry. &quot;[Computing Low-Weight Discrete Logarithms](https://bkacsmar.github.io/files/Low_weight_DLP_ext.pdf).&quot; the 24th Annual Conference on Selected Areas in Cryptography (SAC 2017), in <i>International Conference on Selected Areas in Cryptography</i>, pp. 106-126. Springer, Cham.
 
