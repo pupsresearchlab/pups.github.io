@@ -5,7 +5,7 @@ author_profile: true
 ---
 
 <h2>Peer-Reviewed Journal Publications</h2>
-<b>Bailey Kacsmar</b>, Chelsea Komlo, Florian Kerschbaum, Ian Goldberg. &quot;Mind the Gap: Ceremonies for Applied Secret Sharing.&quot; <i> Proceedings on Privacy Enhancing Technologies</i>. Vol. 2020, No. 2. 18 pages. April 2020.
+<b>Bailey Kacsmar</b>, Chelsea H. Komlo, Florian Kerschbaum, Ian Goldberg. &quot;Mind the Gap: Ceremonies for Applied Secret Sharing.&quot; <i> Proceedings on Privacy Enhancing Technologies</i>. Vol. 2020, No. 2. 18 pages. April 2020.
 <br>
 
 <b>Bailey Kacsmar</b>, Douglas R. Stinson. &quot;[A Network Reliability Approach to the Analysis of Combinatorial Repairable Threshold Schemes](https://bkacsmar.github.io/files/networkReliability.pdf).&quot; <i>Advances in Mathematics of Communications, 2019</i>, 13 (4) : 601-612. doi: 10.3934/amc.2019037.
@@ -19,7 +19,7 @@ Chenkuan Li, Changpin Li, <b>Bailey Kacsmar</b>, Roque Lacroix and Kyle Tilbury.
 
 
 <h2>Conference Presentations without Proceedings</h2>
-"State-Level Secrets: When Theory Meets Practice for Journalists Working with Encrypted Documents", Real World Cryptography 2019, San Jose, California, United States. (January 2019). Co-presenter: Chelsea Komlo
+"State-Level Secrets: When Theory Meets Practice for Journalists Working with Encrypted Documents", Real World Cryptography 2019, San Jose, California, United States. (January 2019). Co-presenter: Chelsea H. Komlo
 
 
 
