@@ -15,7 +15,10 @@ Chenkuan Li, Changpin Li, <b>Bailey Kacsmar</b>, Roque Lacroix and Kyle Tilbury.
 
 
 <h2>Peer-Reviewed Conference Publications</h2>
-<b>Bailey Kacsmar</b>, Sarah Plosker, Ryan Henry. &quot;[Computing Low-Weight Discrete Logarithms](https://bkacsmar.github.io/files/Low_weight_DLP_ext.pdf).&quot; the 24th Annual Conference on Selected Areas in Cryptography (SAC 2017), in <i>International Conference on Selected Areas in Cryptography</i>, pp. 106-126. Springer, Cham.
+
+<b>Bailey Kacsmar</b>, Basit Khurram, Nils Lukas, Alexander Norton, Masoumeh Shafieinejad, Zhiwei Shang, Yasser Baseri, Maryam Sepehri, Simon Oya, and Florian Kerschbaum. "Differentially Private Two-Party Set Operations". The 5th IEEE European Symposium on Security and Privacy (IEEE EuroS\&P 2020). Accepted. 
+
+<b>Bailey Kacsmar</b>, Sarah Plosker, Ryan Henry. &quot;[Computing Low-Weight Discrete Logarithms](https://bkacsmar.github.io/files/Low_weight_DLP_ext.pdf)&quot;. The 24th Annual Conference on Selected Areas in Cryptography (SAC 2017), in <i>International Conference on Selected Areas in Cryptography</i>, pp. 106-126. Springer, Cham.
 
 
 <h2>Conference Presentations without Proceedings</h2>
