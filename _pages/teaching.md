@@ -14,6 +14,7 @@ author_profile: true
 
 
 <h2>Teaching Assistantships</h2>
+Winter 2021: CS490 Information Systems Management, University of Waterloo.<br>
 Winter 2020: CS458/658 Computer Security and Privacy, University of Waterloo.<br>
 Fall 2018: CS458/658 Computer Security and Privacy, University of Waterloo.<br>
 Spring 2018: CS458/658 Computer Security and Privacy, University of Waterloo.<br>
