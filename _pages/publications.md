@@ -21,17 +21,17 @@ Rasoul Akhavan Mahdavi,  Thomas Humphries, <b>Bailey Kacsmar</b>, Simeon Krastni
 
 <b>Bailey Kacsmar</b>, Basit Khurram, Nils Lukas, Alexander Norton, Masoumeh Shafieinejad, Zhiwei Shang, Yasser Baseri, Maryam Sepehri, Simon Oya, and Florian Kerschbaum. &quot;[Differentially Private Two-Party Set Operations](https://bkacsmar.github.io/files/DiPSI.pdf)&quot;. The 5th IEEE European Symposium on Security and Privacy, (IEEE EuroS&P 2020). Accepted. 
 
-<b>Bailey Kacsmar</b>, Sarah Plosker, Ryan Henry. &quot;[Computing Low-Weight Discrete Logarithms](https://bkacsmar.github.io/files/Low_weight_DLP_ext.pdf)&quot;. The 24th Annual Conference on Selected Areas in Cryptography (SAC 2017), <i>International Conference on Selected Areas in Cryptography</i>, pp. 106-126. Springer, Cham.
+<b>Bailey Kacsmar</b>, Sarah Plosker, Ryan Henry. &quot;[Computing Low-Weight Discrete Logarithms](https://bkacsmar.github.io/files/Low_weight_DLP_ext.pdf)&quot;. The 24th Annual Conference on Selected Areas in Cryptography (SAC 2017), <i>International Conference on Selected Areas in Cryptography</i>, pp. 106-126. Springer, Cham. [(Slides)] (https://bkacsmar.github.io/files/Computing_Low_Weight_DL.pdf)
 
 
 <h2>Conference Presentations without Proceedings</h2>
-"State-Level Secrets: When Theory Meets Practice for Journalists Working with Encrypted Documents", Real World Cryptography 2019, San Jose, California, United States. (January 2019). Co-presenter: Chelsea H. Komlo
+"State-Level Secrets: When Theory Meets Practice for Journalists Working with Encrypted Documents", Real World Cryptography 2019, San Jose, California, United States. (January 2019). Co-presenter: Chelsea H. Komlo  [(Slides)](https://bkacsmar.github.io/files/RWC_Talk.pdf)
 
 
 
 <h2>Theses</h2>
 [Designing Efficient Algorithms for Combinatorial Repairable Threshold Schemes](https://bkacsmar.github.io/files/DesigningEfficientAlgo.pdf). UWSpace: MMath
-thesis, University of Waterloo, Waterloo, ON, Canada (October 2018).
+thesis, University of Waterloo, Waterloo, ON, Canada (October 2018). [(Slides)] (https://bkacsmar.github.io/files/MastersThesis_presentation.pdf)
 
 
 
