@@ -25,7 +25,7 @@ Rasoul Akhavan Mahdavi,  Thomas Humphries, <b>Bailey Kacsmar</b>, Simeon Krastni
 
 
 <h2>Conference Presentations without Proceedings</h2>
-"State-Level Secrets: When Theory Meets Practice for Journalists Working with Encrypted Documents", Real World Cryptography 2019, San Jose, California, United States. (January 2019). Co-presenter: Chelsea H. Komlo  [(Slides)](https://bkacsmar.github.io/files/RWC_Talk.pdf)
+"State-Level Secrets: When Theory Meets Practice for Journalists Working with Encrypted Documents", Real World Cryptography 2019, San Jose, California, United States. (January 2019). Co-presenter: Chelsea H. Komlo.  [(Slides)](https://bkacsmar.github.io/files/RWC_Talk.pdf)
 
 
 
