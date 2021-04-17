@@ -13,6 +13,11 @@ My research interests are cryptography and its applications with my current focu
 
 I received a Masters of Mathematics from the University of Waterloo. My masters thesis was on combinatorial cryptography, supervised by [Doug Stinson](https://cs.uwaterloo.ca/~dstinson/).
 
+
+
+PoPETS Artifact Committee co-chair for 2022. Reminder you can use the nomication form [here](https://docs.google.com/forms/d/e/1FAIpQLScxkw61ltTcpAwkVN5TSNRID-01-MNVyuW1b4FwP0rVufNdZQ/viewform) to nomintate yourself or someone else as a PC member, Artifact committee member, or external reviewer. 
+
+
 <img src="/files/crysp-logo-word-clearbg-blackfg.png" alt="CrySP Logo" width="225" hspace="25"> 
  
 <img src="/files/UniversityOfWaterloo_logo_horiz_rgb.png" alt="Waterloo Logo" width="275">
