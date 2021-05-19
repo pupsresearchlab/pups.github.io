@@ -19,7 +19,7 @@ Chenkuan Li, Changpin Li, <b>Bailey Kacsmar</b>, Roque Lacroix and Kyle Tilbury.
 Rasoul Akhavan Mahdavi,  Thomas Humphries, <b>Bailey Kacsmar</b>, Simeon Krastnikov, Nils Lukas, John Premkumar,  Masoumeh Shafieinejad, Simon Oya, Florian Kerschbaum, Erik-Oliver Blass. &quot;[Practical Over-Threshold Multi-Party Private Set Intersection](https://bkacsmar.github.io/files/overthresholdPSI.pdf)&quot;. The Annual Computer Security Applications Conference (ACSAC 2020), pp. 772-783.
 
 
-<b>Bailey Kacsmar</b>, Basit Khurram, Nils Lukas, Alexander Norton, Masoumeh Shafieinejad, Zhiwei Shang, Yasser Baseri, Maryam Sepehri, Simon Oya, and Florian Kerschbaum. &quot;[Differentially Private Two-Party Set Operations](https://bkacsmar.github.io/files/DiPSI.pdf)&quot;. The 5th IEEE European Symposium on Security and Privacy, (IEEE EuroS&P 2020). Accepted. 
+<b>Bailey Kacsmar</b>, Basit Khurram, Nils Lukas, Alexander Norton, Masoumeh Shafieinejad, Zhiwei Shang, Yasser Baseri, Maryam Sepehri, Simon Oya, and Florian Kerschbaum. &quot;[Differentially Private Two-Party Set Operations](https://bkacsmar.github.io/files/DiPSI.pdf)&quot;. The 5th IEEE European Symposium on Security and Privacy, (IEEE EuroS&P 2020). pp. 390-404. 
 
 <b>Bailey Kacsmar</b>, Sarah Plosker, Ryan Henry. &quot;[Computing Low-Weight Discrete Logarithms](https://bkacsmar.github.io/files/Low_weight_DLP_ext.pdf)&quot;. The 24th Annual Conference on Selected Areas in Cryptography (SAC 2017), <i>International Conference on Selected Areas in Cryptography</i>, pp. 106-126. Springer, Cham. [(Slides)](https://bkacsmar.github.io/files/Computing_Low_Weight_DL.pdf)
 
