@@ -4,17 +4,10 @@ permalink: /publications/
 author_profile: true
 ---
 
-<h2>Peer-Reviewed Journal Publications</h2>
-<b>Bailey Kacsmar</b>, Chelsea H. Komlo, Florian Kerschbaum, Ian Goldberg. &quot;[Mind the Gap: Ceremonies for Applied Secret Sharing](https://bkacsmar.github.io/files/mindthegap.pdf).&quot; <i> Proceedings on Privacy Enhancing Technologies</i>. Vol. 2020, No. 2. 18 pages. April 2020. [(Slides)](https://bkacsmar.github.io/files/PoPETS_2020_Mindthegap.pdf)
-<br>
-
-<b>Bailey Kacsmar</b>, Douglas R. Stinson. &quot;[A Network Reliability Approach to the Analysis of Combinatorial Repairable Threshold Schemes](https://bkacsmar.github.io/files/networkReliability.pdf).&quot; <i>Advances in Mathematics of Communications, 2019</i>, 13 (4) : 601-612. doi: 10.3934/amc.2019037.
-<br>
-
-Chenkuan Li, Changpin Li, <b>Bailey Kacsmar</b>, Roque Lacroix and Kyle Tilbury. &quot;[The Abel Integral Equations in Distribution](https://bkacsmar.github.io/files/abelIntegral.pdf)&quot;, Advances in Analysis, 2 (2017), pages 88-104.doi:10.2206/aan.
-
-
 <h2>Peer-Reviewed Conference Publications</h2>
+<b>Bailey Kacsmar</b>, Kyle Tilbury, Miti Mazmudar, Florian Kerschbaum. Caring about Sharing: User Perceptions of Multiparty Data Sharing. USENIX Security 2022. Accepted.
+<br>
+
 
 Rasoul Akhavan Mahdavi,  Thomas Humphries, <b>Bailey Kacsmar</b>, Simeon Krastnikov, Nils Lukas, John Premkumar,  Masoumeh Shafieinejad, Simon Oya, Florian Kerschbaum, Erik-Oliver Blass. &quot;[Practical Over-Threshold Multi-Party Private Set Intersection](https://bkacsmar.github.io/files/overthresholdPSI.pdf)&quot;. The Annual Computer Security Applications Conference (ACSAC 2020), pp. 772-783.
 
@@ -26,6 +19,19 @@ Rasoul Akhavan Mahdavi,  Thomas Humphries, <b>Bailey Kacsmar</b>, Simeon Krastni
 
 <h2>Conference Presentations without Proceedings</h2>
 "State-Level Secrets: When Theory Meets Practice for Journalists Working with Encrypted Documents", Real World Cryptography 2019, San Jose, California, United States. (January 2019). Co-presenter: Chelsea H. Komlo.  [(Slides)](https://bkacsmar.github.io/files/RWC_Talk.pdf)
+
+
+
+
+
+<h2>Peer-Reviewed Journal Publications</h2>
+<b>Bailey Kacsmar</b>, Chelsea H. Komlo, Florian Kerschbaum, Ian Goldberg. &quot;[Mind the Gap: Ceremonies for Applied Secret Sharing](https://bkacsmar.github.io/files/mindthegap.pdf).&quot; <i> Proceedings on Privacy Enhancing Technologies</i>. Vol. 2020, No. 2. 18 pages. April 2020. [(Slides)](https://bkacsmar.github.io/files/PoPETS_2020_Mindthegap.pdf)
+<br>
+
+<b>Bailey Kacsmar</b>, Douglas R. Stinson. &quot;[A Network Reliability Approach to the Analysis of Combinatorial Repairable Threshold Schemes](https://bkacsmar.github.io/files/networkReliability.pdf).&quot; <i>Advances in Mathematics of Communications, 2019</i>, 13 (4) : 601-612. doi: 10.3934/amc.2019037.
+<br>
+
+Chenkuan Li, Changpin Li, <b>Bailey Kacsmar</b>, Roque Lacroix and Kyle Tilbury. &quot;[The Abel Integral Equations in Distribution](https://bkacsmar.github.io/files/abelIntegral.pdf)&quot;, Advances in Analysis, 2 (2017), pages 88-104.doi:10.2206/aan.
 
 
 
