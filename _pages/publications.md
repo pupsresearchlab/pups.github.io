@@ -5,7 +5,7 @@ author_profile: true
 ---
 
 <h2>Peer-Reviewed Conference Publications</h2>
-<b>Bailey Kacsmar</b>, Kyle Tilbury, Miti Mazmudar, Florian Kerschbaum. Caring about Sharing: User Perceptions of Multiparty Data Sharing. USENIX Security 2022. Accepted. ([Survey](https://bkacsmar.github.io/files/SurveyUsenix2022.pdf)).
+<b>Bailey Kacsmar</b>, Kyle Tilbury, Miti Mazmudar, Florian Kerschbaum. Caring about Sharing: User Perceptions of Multiparty Data Sharing. USENIX Security 2022. Accepted. ([Preprint]https://bkacsmar.github.io/files/caringPreprint.pdf) ([Survey](https://bkacsmar.github.io/files/SurveyUsenix2022.pdf)).
 <br>
 
 
