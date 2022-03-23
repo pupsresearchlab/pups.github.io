@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Bailey Kacsmar"
   avatar           : "profImg.jpg"
-  bio              : "PhD candidate at the University of Waterloo, bkacsmaratuwaterloodotca"
+  bio              : "PhD candidate at the University of Waterloo"
   location         : "Waterloo, Canada"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.ca/citations?hl=en&user=QZLnUAzKwpcC"
-  email            :
+  email            : bkacsmaratuwaterloodotca
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
