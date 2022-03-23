@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Bailey Kacsmar"
 title_separator          : "-"
 name                     : &name "Bailey Kacsmar"
-description              : &description "PhD candidate at the University of Waterloo, bkacsmaratuwaterloodotca"
+description              : &description "PhD candidate at the University of Waterloo"
 url                      : https://bkacsmar.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "bkacsmar.github.io/"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Bailey Kacsmar"
   avatar           : "profImg.jpg"
-  bio              : "PhD candidate at the University of Waterloo"
+  bio              : "PhD candidate at the University of Waterloo, bkacsmaratuwaterloodotca"
   location         : "Waterloo, Canada"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
