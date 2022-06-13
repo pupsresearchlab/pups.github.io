@@ -18,8 +18,8 @@ I received a Masters of Mathematics from the University of Waterloo. My masters 
 
 <b>Selected Service</b>
 <ul>
-  <li>  PoPETs 2023 Program Committee
-  <li> PoPETS 2022, 2023 Artifact Committee co-chair
+  <li>  PoPETs 2023 Program Committee</li>
+  <li> PoPETS 2022, 2023 Artifact Committee co-chair</li>
 </ul> 
 
 Reminder you can use the nomination form [here](https://docs.google.com/forms/d/e/1FAIpQLScxkw61ltTcpAwkVN5TSNRID-01-MNVyuW1b4FwP0rVufNdZQ/viewform) to nominate yourself or someone else as a Artifact committee member, PC member, or external reviewer. 
