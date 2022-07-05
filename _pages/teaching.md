@@ -4,6 +4,9 @@ permalink: /teaching/
 author_profile: true
 ---
 
+<h2>Upcoming Courses</h2>
+I will be teaching CS489 Privacy, Cryptography, Network and Data Security in Winter term 2023.
+
 <h2>Teaching Education</h2>
 
 [Certificate in University Teaching](https://uwaterloo.ca/centre-for-teaching-excellence/support-graduate-students/certificate-university-teaching/), Centre for Teaching Excellence, University of Waterloo. <br> Completed 2021. <br> 
