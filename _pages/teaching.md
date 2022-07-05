@@ -5,7 +5,7 @@ author_profile: true
 ---
 
 <h2>Upcoming Courses</h2>
-Winter term 2023 at University of Waterloo, I will be teaching CS489 Privacy, Cryptography, Network and Data Security.
+I will be teaching CS489 Privacy, Cryptography, Network and Data Security in Winter term 2023, University of Waterloo.
 
 <h2>Teaching Education</h2>
 
