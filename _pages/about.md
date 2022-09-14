@@ -22,7 +22,7 @@ I received a Masters of Mathematics from the University of Waterloo. My masters 
   <li> PoPETS 2022, 2023 Artifact Committee co-chair</li>
 </ul> 
 
-Reminder you can use the PoPETs nomination form [here](https://docs.google.com/forms/d/e/1FAIpQLScxkw61ltTcpAwkVN5TSNRID-01-MNVyuW1b4FwP0rVufNdZQ/viewform) to nominate yourself or someone else as a Artifact committee member, PC member, or external reviewer. 
+Reminder you can use the PoPETs nomination form [here](https://docs.google.com/forms/d/e/1FAIpQLScxkw61ltTcpAwkVN5TSNRID-01-MNVyuW1b4FwP0rVufNdZQ/viewform) to nominate yourself or someone else as a PETs Artifact committee member, PC member, or external reviewer. 
 
 
 <img src="/files/crysp-logo-word-clearbg-blackfg.png" alt="CrySP Logo" width="225" hspace="25"> 
