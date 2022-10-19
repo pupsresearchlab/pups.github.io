@@ -12,8 +12,14 @@ redirect_from:
 
 My research interests are broadly in the development and evaluation of technical privacy solutions; including the use of privacy mechanisms for data analysis. I aim to develop user conscious privacy technology through the parallel study of technical solutions for private computation (including private machine learning) alongside the corresponding user perceptions, concerns, and comprehension of these developments. 
 
+<p align="center">
+<img src="/files/research_overview.png" alt="Research Overview" width="400"> 
+</p>
+
+
 I am a PhD candidate at the University of Waterloo. I am supervised by [Florian Kerschbaum](https://cs.uwaterloo.ca/~fkerschb/) and I am a member of the  [Cryptography, Security, and Privacy (CrySP)](https://crysp.uwaterloo.ca/) lab.
 I received a Masters of Mathematics from the University of Waterloo. My masters thesis was on combinatorial cryptography, supervised by [Doug Stinson](https://cs.uwaterloo.ca/~dstinson/).
+
 
 
 <b>Selected Service</b>
@@ -23,6 +29,7 @@ I received a Masters of Mathematics from the University of Waterloo. My masters 
 </ul> 
 
 Reminder you can use the PoPETs nomination form [here](https://docs.google.com/forms/d/e/1FAIpQLScxkw61ltTcpAwkVN5TSNRID-01-MNVyuW1b4FwP0rVufNdZQ/viewform) to nominate yourself or someone else as a PETs Artifact committee member, PC member, or external reviewer. 
+
 
 
 <img src="/files/crysp-logo-word-clearbg-blackfg.png" alt="CrySP Logo" width="225" hspace="25"> 
