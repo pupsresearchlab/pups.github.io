@@ -1,6 +1,6 @@
 ---
 title: ""
-permalink: /cs489/
+permalink: /cs489waterloo/
 author_profile: true
 ---
 
