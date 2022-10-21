@@ -1,6 +1,6 @@
 ---
 title: ""
-permalink: /cs489waterloo/
+permalink: /cs489waterloo2023/
 author_profile: true
 ---
 
@@ -22,6 +22,6 @@ author_profile: true
 
 {% include base_path %}
 
-{% for post in site.cs489waterloo reversed %}
+{% for post in site.cs489waterloo2023 reversed %}
   {% include archive-single.html %}
 {% endfor %}
