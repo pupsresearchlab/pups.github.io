@@ -19,7 +19,7 @@ Rasoul Akhavan Mahdavi,  Thomas Humphries, <b>Bailey Kacsmar</b>, Simeon Krastni
 
 <b>Bailey Kacsmar</b>, Basit Khurram, Nils Lukas, Alexander Norton, Masoumeh Shafieinejad, Zhiwei Shang, Yasser Baseri, Maryam Sepehri, Simon Oya, and Florian Kerschbaum. &quot;[Differentially Private Two-Party Set Operations](https://bkacsmar.github.io/files/DiPSI.pdf)&quot;. The 5th IEEE European Symposium on Security and Privacy, (IEEE EuroS&P 2020). pp. 390-404. 
 
-<b>Bailey Kacsmar</b>, Chelsea H. Komlo, Florian Kerschbaum, Ian Goldberg. &quot;[Mind the Gap: Ceremonies for Applied Secret Sharing](https://bkacsmar.github.io/files/mindthegap.pdf).&quot; <i> Proceedings on Privacy Enhancing Technologies</i>. Vol. 2020, No. 2. 18 pages. April 2020. [(Slides)](https://bkacsmar.github.io/files/PoPETS_2020_Mindthegap.pdf)
+<b>Bailey Kacsmar</b>, Chelsea H. Komlo, Florian Kerschbaum, Ian Goldberg. &quot;[Mind the Gap: Ceremonies for Applied Secret Sharing](https://bkacsmar.github.io/files/mindthegap.pdf)&quot.; <i> Proceedings on Privacy Enhancing Technologies</i>. Vol. 2020, No. 2. 18 pages. April 2020. [(Slides)](https://bkacsmar.github.io/files/PoPETS_2020_Mindthegap.pdf)
 <br>
 
 
