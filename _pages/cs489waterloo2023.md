@@ -17,6 +17,9 @@ author_profile: true
  Antirequisites: None. This course can be taken after, in parallel or in place of CS458. It provides more detailed material on a subset of techniques mentioned in CS458.
 
 
+<h3>Winter 2023 Offering</h3>
+Lectures Tuesday/Thursday 8:30-9:50am
+Syllabus [here](https://bkacsmar.github.io/files/CS489syllabus.pdf)
 
 
 
