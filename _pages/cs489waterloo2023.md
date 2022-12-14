@@ -20,7 +20,7 @@ author_profile: true
 <h3>Winter 2023 Offering</h3>
 Lectures: Tuesday/Thursday 8:30-9:50am
 
-Syllabus: [here](https://bkacsmar.github.io/files/CS489syllabus.pdf)
+Course website: [here]([https://bkacsmar.github.io/files/CS489syllabus.pdf](https://crysp.uwaterloo.ca/courses/data-sp/W23/))
 
 
 
