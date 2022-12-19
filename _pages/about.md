@@ -26,6 +26,7 @@ I received a Masters of Mathematics from the University of Waterloo. My masters 
 
 <b>Selected Service</b>
 <ul>
+  <li> ACM CCS 2023 Program Committee</li>
   <li>  PoPETs 2023 Program Committee</li>
   <li> PoPETS 2022, 2023 Artifact Committee co-chair</li>
 </ul> 
