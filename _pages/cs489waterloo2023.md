@@ -18,10 +18,11 @@ author_profile: true
 
 
 <h3>Winter 2023 Offering</h3>
+
 Lectures: Tuesday/Thursday 8:30-9:50am
 
 Course website: [here](https://crysp.uwaterloo.ca/courses/data-sp/W23/)
-</br>
+
 Reference Syllabus: [here](https://bkacsmar.github.io/files/489syllabus.pdf)
 
 
