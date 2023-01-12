@@ -17,6 +17,10 @@ in Winter term 2023, University of Waterloo.
 <br>
 
 
+<h2>Sample Course Materials</h2>
+
+[Introduction to Cryptography 1](https://bkacsmar.github.io//files/IntroCrypto1.pdf)
+
 
 
 
