@@ -21,6 +21,7 @@ in Winter term 2023, University of Waterloo.
 
 [Introduction to Cryptography 1](https://bkacsmar.github.io//files/IntroCrypto1.pdf)
 
+[Introduction to Cryptography 2](https://bkacsmar.github.io//files/introcrypto2.pdf)
 
 
 
