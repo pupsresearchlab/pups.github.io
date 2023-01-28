@@ -9,13 +9,6 @@ author_profile: true
 [CS489 Privacy, Cryptography, Network and Data Security](https://bkacsmar.github.io//cs489waterloo2023/)
 in Winter term 2023, University of Waterloo.
 
-<h2>Teaching Education</h2>
-
-[Certificate in University Teaching](https://uwaterloo.ca/centre-for-teaching-excellence/support-graduate-students/certificate-university-teaching/), Centre for Teaching Excellence, University of Waterloo. <br> Completed 2021. <br> 
-
-[Fundamentals of University Teaching](https://uwaterloo.ca/centre-for-teaching-excellence/support-graduate-students/fundamentals-university-teaching-program/), Centre for Teaching Excellence, University of Waterloo. <br> Completed 2017.
-<br>
-
 
 <h2>Sample Course Materials</h2>
 
@@ -23,6 +16,15 @@ in Winter term 2023, University of Waterloo.
 
 [Introduction to Cryptography 2](https://bkacsmar.github.io//files/introcrypto2.pdf)
 
+
+
+
+<h2>Teaching Education</h2>
+
+[Certificate in University Teaching](https://uwaterloo.ca/centre-for-teaching-excellence/support-graduate-students/certificate-university-teaching/), Centre for Teaching Excellence, University of Waterloo. <br> Completed 2021. <br> 
+
+[Fundamentals of University Teaching](https://uwaterloo.ca/centre-for-teaching-excellence/support-graduate-students/fundamentals-university-teaching-program/), Centre for Teaching Excellence, University of Waterloo. <br> Completed 2017.
+<br>
 
 
 <h2>Teaching Assistantships</h2>
