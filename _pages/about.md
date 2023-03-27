@@ -26,9 +26,9 @@ I received a Masters of Mathematics from the University of Waterloo. My masters 
 
 <b>Selected Service</b>
 <ul>
-  <li> ACM CCS 2023 Program Committee</li>
-  <li>  PoPETs 2023 Program Committee</li>
-  <li> PoPETS 2022, 2023 Artifact Committee co-chair</li>
+  <li> ACM CCS Program Committee 2023</li>
+  <li>  PoPETs Program Committee 2023, 2024</li>
+  <li> PoPETS Artifact Committee co-chair 2022, 2023</li>
 </ul> 
 
 Reminder you can use the PoPETs nomination form [here](https://docs.google.com/forms/d/e/1FAIpQLScxkw61ltTcpAwkVN5TSNRID-01-MNVyuW1b4FwP0rVufNdZQ/viewform) to nominate yourself or someone else as a PETs Artifact committee member, PC member, or external reviewer. 
