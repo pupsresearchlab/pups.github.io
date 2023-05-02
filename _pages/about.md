@@ -10,8 +10,6 @@ redirect_from:
 
 <b>About</b>
 
-I'm on the job market for positions starting in Fall/Summer 2023!
-
 My research interests are broadly in the development and evaluation of technical privacy solutions; including the use of privacy mechanisms for data analysis. I aim to develop user conscious privacy technology through the parallel study of technical solutions for private computation (including multiparty computation and privacy in machine learning) alongside the corresponding user perceptions, concerns, and comprehension of these developments. 
 
 <p align="center">
