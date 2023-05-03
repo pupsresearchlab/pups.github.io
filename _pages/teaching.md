@@ -5,6 +5,10 @@ author_profile: true
 ---
 
 <h2>Current Courses</h2>
+To be announced. 
+
+<h2>Past Course Offerings</h3>
+
 
 [CS489 Privacy, Cryptography, Network and Data Security](https://bkacsmar.github.io//cs489waterloo2023/)
 in Winter term 2023, University of Waterloo.
