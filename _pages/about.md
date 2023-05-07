@@ -17,8 +17,8 @@ My research interests are broadly in the development and evaluation of technical
 </p>
 
 
-I am a PhD candidate at the University of Waterloo. I am supervised by [Florian Kerschbaum](https://cs.uwaterloo.ca/~fkerschb/) and I am a member of the  [Cryptography, Security, and Privacy (CrySP)](https://crysp.uwaterloo.ca/) lab.
-I received a Masters of Mathematics from the University of Waterloo. My masters thesis was on combinatorial cryptography, supervised by [Doug Stinson](https://cs.uwaterloo.ca/~dstinson/).
+I am an incoming assistant professor at the University of ALberta and a current PhD candidate at the University of Waterloo. I am advised by [Florian Kerschbaum](https://cs.uwaterloo.ca/~fkerschb/) and I am a member of the  [Cryptography, Security, and Privacy (CrySP)](https://crysp.uwaterloo.ca/) lab.
+I received a Masters of Mathematics from the University of Waterloo. My masters thesis was on combinatorial cryptography, advised by [Doug Stinson](https://cs.uwaterloo.ca/~dstinson/).
 
 
 
