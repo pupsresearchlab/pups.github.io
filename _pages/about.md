@@ -10,15 +10,23 @@ redirect_from:
 
 <b>About</b>
 
+I am an incoming assistant professor at the University of Alberta and a current PhD candidate at the University of Waterloo. I received my Masters of Mathematics from the University of Waterloo.
+
 My research interests are broadly in the development and evaluation of technical privacy solutions; including the use of privacy mechanisms for data analysis. I aim to develop user conscious privacy technology through the parallel study of technical solutions for private computation (including multiparty computation and privacy in machine learning) alongside the corresponding user perceptions, concerns, and comprehension of these developments. 
+
+
+<b>Advising</b>
+
+I am currently seeking interested graduate students to start in September 2024. Application instructions can be found [here](https://www.ualberta.ca/computing-science/graduate-studies/programs-and-admissions/applications-and-admissions/index.html)
 
 <p align="center">
 <img src="/files/research_overview_web.png" alt="Research Overview" width="800"> 
 </p>
 
 
-I am an incoming assistant professor at the University of Alberta and a current PhD candidate at the University of Waterloo. I am advised by [Florian Kerschbaum](https://cs.uwaterloo.ca/~fkerschb/) and I am a member of the  [Cryptography, Security, and Privacy (CrySP)](https://crysp.uwaterloo.ca/) lab.
-I received a Masters of Mathematics from the University of Waterloo. My masters thesis was on combinatorial cryptography, advised by [Doug Stinson](https://cs.uwaterloo.ca/~dstinson/).
+
+<!-- I am advised by [Florian Kerschbaum](https://cs.uwaterloo.ca/~fkerschb/) and I am a member of the  [Cryptography, Security, and Privacy (CrySP)](https://crysp.uwaterloo.ca/) lab. -->
+<!--  My masters thesis was on combinatorial cryptography, advised by [Doug Stinson](https://cs.uwaterloo.ca/~dstinson/). -->
 
 
 
