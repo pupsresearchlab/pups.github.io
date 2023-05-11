@@ -5,7 +5,7 @@ author_profile: true
 ---
 
 <h2>Current Courses</h2>
-To be announced. 
+Graduate Course, Course title to be announced, in Fall term 2023, University of Alberta
 
 <h2>Past Course Offerings</h2>
 
