@@ -10,7 +10,7 @@ redirect_from:
 
 <b>About</b>
 
-I am an incoming assistant professor at the University of Alberta and a current PhD candidate at the University of Waterloo. I received my Masters of Mathematics from the University of Waterloo.
+I am an incoming Assistant Professor at the University of Alberta and a current PhD candidate at the University of Waterloo. I received my Masters of Mathematics from the University of Waterloo.
 
 My research interests are broadly in the development and evaluation of technical privacy solutions; including the use of privacy mechanisms for data analysis. I aim to develop user conscious privacy technology through the parallel study of technical solutions for private computation (including multiparty computation and privacy in machine learning) alongside the corresponding user perceptions, concerns, and comprehension of these developments. 
 
