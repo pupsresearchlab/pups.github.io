@@ -5,7 +5,7 @@ author_profile: true
 ---
 
 <h2>Current Courses</h2>
-Graduate Course, Course title to be announced, in Fall term 2023, University of Alberta
+Course title to be announced, in Fall term 2023, University of Alberta
 
 <h2>Past Course Offerings</h2>
 
@@ -29,7 +29,7 @@ Graduate Course, Course title to be announced, in Fall term 2023, University of 
 <br>
 
 
-<h2>Teaching Assistantships</h2>
+<!-- <h2>Teaching Assistantships</h2>
 Winter 2021: CS490 Information Systems Management, University of Waterloo.<br>
 Winter 2020: CS458/658 Computer Security and Privacy, University of Waterloo.<br>
 Fall 2018: CS458/658 Computer Security and Privacy, University of Waterloo.<br>
@@ -51,7 +51,7 @@ Fall 2014: 62:182 Linear Algebra, Brandon University. <br>
 Fall 2014: 70:162 Introduction to Logic, Brandon University.<br>
 Winter 2014: 62:182 Linear Algebra, Brandon University. <br>
 Fall 2013: 62:182 Linear Algebra, Brandon University. <br>
-Winter 2013: 62:182 Linear Algebra, Brandon University. <br>
+Winter 2013: 62:182 Linear Algebra, Brandon University. <br> -->
 
 
 
