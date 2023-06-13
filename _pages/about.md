@@ -11,11 +11,11 @@ redirect_from:
 <b>About</b></br>
 I am an incoming Assistant Professor at the University of Alberta and a current PhD candidate at the University of Waterloo. I received my Masters of Mathematics from the University of Waterloo.
 
-My research interests are broadly in the development and evaluation of technical privacy solutions; including the use of privacy mechanisms for data analysis. I aim to develop user conscious privacy technology through the parallel study of technical solutions for private computation (privacy in machine learning and private set intersections) alongside the corresponding user perceptions, concerns, and comprehension of these developments. 
+My research interests are broadly in the development and evaluation of technical privacy solutions; including the use of privacy mechanisms for data analysis. I aim to develop human-centered privacy technology through the parallel study of technical solutions for private computation (privacy in machine learning and private set intersections) alongside the corresponding user perceptions, concerns, and comprehension of these developments. 
 
 
 <b>Advising</b></br>
-I am currently seeking interested graduate students to start in September 2024. Application instructions can be found [here](https://www.ualberta.ca/computing-science/graduate-studies/programs-and-admissions/applications-and-admissions/index.html)
+I am currently seeking interested graduate students to start in September 2024. Application instructions can be found [here](https://www.ualberta.ca/computing-science/graduate-studies/programs-and-admissions/applications-and-admissions/index.html). 
 
 
 <!-- 
