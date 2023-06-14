@@ -7,7 +7,8 @@ author_profile: true
 **UNDER CONSTRUCTION**
 
 <h2>Practical Usable Privacy and Security</h2>
-We focus on developing privacy enhancing systems using human-centered design. That is, when developing technical privacy protocols, we do so informed by the end privacy goals of the entities whoes privacy can be effected by whether their data is used in such systems.
+Technical privacy systems define what is being protected, from who, and under what conditions this protection will hold. We focus on developing privacy enhancing systems using human-centered design. That is, when developing technical privacy protocols, we take a wider view of privacy. We aim to develop privacy enhancing technologies informed by the end privacy goals of the entities who can be effected by whether their data is used in such systems.
+
 
 <p align="center">
 <img src="/files/cycle.png" alt="Human Centered Cycle" width="700"> 
@@ -19,7 +20,5 @@ On one side of practicality, we need to ensure that technical guarantees are enf
 
 <b>Usable privacy?</b>
 The usability of a privacy system has several facets to it. It includes aspects of what users actually do and what do they want to do. However, it also includes the accessibility of the system.
-
-
 
 <b>Privacy and security?</b>
