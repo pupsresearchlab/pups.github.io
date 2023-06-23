@@ -41,6 +41,8 @@ Reminder you can use the PoPETs nomination form [here](https://docs.google.com/f
 
 
 <b>Upcoming and Recent Talks</b><br/>
+July 6, 2023 "Human-Centred Privacy in Machine Learning", [ZISC Seminar Series](https://zisc.ethz.ch/event/human-centred-privacy-ml/), Zurich, Switzerland. 
+
 May 24, 2023 "Beyond Data Privacy for Machine Learning", 2023 Upper Bound Academic Symposium, AMII, Edmonton, Alberta. [Slides](https://bkacsmar.github.io/files/Amii_privacyML_2023.pdf)
 
 May 5, 2023 "Improving Interactive Instruction", Math Teaching Colloquium at 2023 MAA Seaway Section, Waterloo, Ontario. [Slides](https://bkacsmar.github.io/files/Math_ed_colloqium_2023.pdf) 
