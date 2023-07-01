@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Bailey Kacsmar"
   avatar           : "profImgJune22.jpg"
-  bio              : "Incoming Assistant Professor at University of Alberta"
+  bio              : "Assistant Professor at University of Alberta"
   location         : "Waterloo, Canada"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.ca/citations?hl=en&user=QZLnUAzKwpcC&sortby=pubdate"
-  email            : bkacsmar@uwaterloo.ca
+  email            : kacsmar@ualberta.ca
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
