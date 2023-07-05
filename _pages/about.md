@@ -51,8 +51,8 @@ May 5, 2023 "Improving Interactive Instruction", Math Teaching Colloquium at 202
 
 
 
-<img src="/files/crysp-logo-word-clearbg-blackfg.png" alt="CrySP Logo" width="225" hspace="25"> 
+<!-- <img src="/files/crysp-logo-word-clearbg-blackfg.png" alt="CrySP Logo" width="225" hspace="25"> 
  
 <img src="/files/UniversityOfWaterloo_logo_horiz_rgb.png" alt="Waterloo Logo" width="275">
  
-
+-->
