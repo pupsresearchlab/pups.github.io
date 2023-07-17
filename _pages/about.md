@@ -15,7 +15,7 @@ My research interests are broadly in the development and evaluation of technical
 
 
 <b>Advising</b><br/>
-I am currently seeking interested graduate students to start in September 2024. Application instructions can be found [here](https://www.ualberta.ca/computing-science/graduate-studies/programs-and-admissions/applications-and-admissions/index.html). 
+I am currently seeking interested graduate students to start in September 2024. Application instructions can be found [here](https://www.ualberta.ca/computing-science/graduate-studies/programs-and-admissions/applications-and-admissions/index.html). If you are looking for a description of the types of research you would be joining, check out the [PUPS](https://bkacsmar.github.io/pups) research group page. 
 
 
 <!-- 
