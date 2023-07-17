@@ -5,11 +5,14 @@ author_profile: true
 ---
 
 <h2>Current Courses</h2>
-Course title to be announced, in Fall term 2023, University of Alberta
+
+<!--CMPUT 626-A1-->
+
+[Machine Learning and Practical Privacy](https://bkacsmar.github.io//MLandPracticalPrivacy/) in Fall term 2023, University of Alberta
 
 <h2>Past Course Offerings</h2>
 
-[CS489 Privacy, Cryptography, Network and Data Security](https://bkacsmar.github.io//cs489waterloo2023/) in Winter term 2023, University of Waterloo.
+[Privacy, Cryptography, Network and Data Security](https://bkacsmar.github.io//cs489waterloo2023/) in Winter term 2023, University of Waterloo.
 
 
 <h2>Sample Course Materials</h2>
