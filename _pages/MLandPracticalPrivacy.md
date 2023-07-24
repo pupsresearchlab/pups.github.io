@@ -16,6 +16,8 @@ The main assessment in this course is a project. It will include a project propo
 
 Lectures: Tuesday/Thursday 3:30-4:50pm
 
+eClass: [Access](https://eclass.srv.ualberta.ca/enrol/instances.php?id=90128)
+
 <!--Univeristy of Alberta course info: TBA-->
 
 Reference Syllabus: TBA
