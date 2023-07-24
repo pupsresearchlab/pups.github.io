@@ -10,6 +10,8 @@ author_profile: true
 
 [Machine Learning and Practical Privacy](https://bkacsmar.github.io//MLandPracticalPrivacy/) in Fall term 2023, University of Alberta
 
+[Machine Learning](https://www.ualberta.ca/computing-science/graduate-studies/course-directory/courses/machine-learning.html) in Winter term 2024, University of Alberta
+
 <h2>Past Course Offerings</h2>
 
 [Privacy, Cryptography, Network and Data Security](https://bkacsmar.github.io//cs489waterloo2023/) in Winter term 2023, University of Waterloo.
