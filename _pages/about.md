@@ -41,7 +41,7 @@ Reminder you can use the PoPETs nomination form [here](https://docs.google.com/f
 
 
 <b>Upcoming and Recent Talks</b><br/>
-August 2023, "Contextual Integrity and Multiparty Data Sharing", 2023 BIRS Workshop on Contextual Integrity for Differential Privacy. Banff International Research Station UBC Okanagan Campus, Canada.
+August 2023, "Features of Privacy Context in Multiparty Data Sharing", 2023 BIRS Workshop on Contextual Integrity for Differential Privacy. Banff International Research Station UBC Okanagan Campus, Canada.
 
 July 6, 2023 "Human-Centred Privacy in Machine Learning", ZISC Seminar Series, Zurich, Switzerland. 
 
