@@ -31,7 +31,7 @@ I am currently seeking interested graduate students to start in September 2024. 
 
 <b>Selected Service</b>
 <ul style="margin-top:-25px; margin-left:-20px;">
-  <li> AAAI Program Committee 2024</li>li>
+  <li> AAAI Program Committee 2024</li>
   <li> ACM CCS Program Committee 2023</li>
   <li> PoPETs Program Committee 2023, 2024</li>
   <li> PoPETS Artifact Committee co-chair 2022, 2023</li>
