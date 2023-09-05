@@ -39,7 +39,7 @@ Chenkuan Li, Changpin Li, <b>Bailey Kacsmar</b>, Roque Lacroix and Kyle Tilbury.
 
 <h2>Theses</h2>
 
-Perceptions and Practicalities for Private Machine Learning. UWSpace: PhD thesis, University of Waterloo, Waterloo, ON, Canada. 
+[Perceptions and Practicalities for Private Machine Learning](https://uwspace.uwaterloo.ca/handle/10012/19830). UWSpace: PhD thesis, University of Waterloo, Waterloo, ON, Canada. 
 <br>
 
 
