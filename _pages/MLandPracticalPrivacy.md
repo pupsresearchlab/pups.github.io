@@ -20,6 +20,6 @@ eClass: [Access](https://eclass.srv.ualberta.ca/enrol/instances.php?id=90128)
 
 <!--Univeristy of Alberta course info: TBA-->
 
-Reference Syllabus: [Draft Availabe Here](https://bkacsmar.github.io/files/Syllabus_modifiedClassSize.pdf)
+Reference Syllabus: [Draft Availabe Here](https://bkacsmar.github.io/files/SyllabusmodifiedClassSize.pdf)
 
 <!--[here](https://bkacsmar.github.io/files/489syllabus.pdf) -->
