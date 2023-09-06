@@ -18,6 +18,8 @@ Lectures: Tuesday/Thursday 3:30-4:50pm
 
 eClass: [Access](https://eclass.srv.ualberta.ca/enrol/instances.php?id=90128)
 
+Slides: [5Sept2023](https://bkacsmar.github.io/files/CMPUT626A22023Sept5.pdf)
+
 <!--Univeristy of Alberta course info: TBA-->
 
 Reference Syllabus: [Draft Availabe Here](https://bkacsmar.github.io/files/SyllabusmodifiedClassSize.pdf)
