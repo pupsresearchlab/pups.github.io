@@ -14,12 +14,14 @@ main:
         
   #- title: "Blog Posts"
    # url: /year-archive/
+
+ - title: "Advising"
+    url: /advising/
     
   - title: "CV"
     url: /files/websiteversion_Jul1.pdf
 
-  - title: "Advising"
-    url: /advising/
+  
     
   #- title: "Guide"
   #  url: /markdown/
