@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 <b>About</b><br/>
-I am an Assistant Professor at the University of Alberta, an Alberta machine intelligence institute (Amii) fellow. I received my PhD and my Masters of Mathematics from the University of Waterloo.
+I am an Assistant Professor at the University of Alberta, an Alberta machine intelligence institute (Amii) fellow. I received my PhD in Computer Science and my Masters of Mathematics from the University of Waterloo.
 
 My research interests are broadly in the development and evaluation of technical privacy solutions; including the use of privacy mechanisms for data analysis. I aim to develop human-centered privacy technology through the parallel study of technical solutions for private computation (privacy in machine learning and private set intersections) alongside the corresponding user perceptions, concerns, and comprehension of these developments. 
 
