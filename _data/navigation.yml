@@ -1,27 +1,16 @@
 # main links links
 main:
-
-
-    
+   
   - title: "Publications"
     url: /publications/
-
- # - title: "Talks"
-  #  url: /talks/    
 
   - title: "Teaching"
     url: /teaching/    
 
  - title: "Advising"
     url: /advising/
-
-
-
-    # space
+    
   - title: "CV"
     url: /files/websiteversion_Jul1.pdf
 
   
-    
-  #- title: "Guide"
-  #  url: /markdown/
