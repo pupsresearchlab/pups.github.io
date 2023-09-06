@@ -17,6 +17,9 @@ main:
     
   - title: "CV"
     url: /files/websiteversion_Jul1.pdf
+
+  - title: "Advising"
+    url: /advising/
     
   #- title: "Guide"
   #  url: /markdown/
