@@ -184,7 +184,9 @@ collections:
   advising:
     output: true
     permalink: /:collection/:path/
-
+  pups:
+    output: true
+    permalink: /:collection/:path/
 
 # Defaults
 defaults:
@@ -237,6 +239,15 @@ defaults:
   - scope:
       path: ""
       type: advising
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      comments: true
+   # _pups
+  - scope:
+      path: ""
+      type: pups
     values:
       layout: single
       author_profile: true
