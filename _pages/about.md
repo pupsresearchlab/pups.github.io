@@ -14,6 +14,8 @@ I am an Assistant Professor at the University of Alberta and an Alberta machine 
 My research interests are broadly in the development and evaluation of technical privacy solutions; including the use of privacy mechanisms for data analysis. I aim to develop human-centered privacy technology through the parallel study of technical solutions for private computation (privacy in machine learning and private set intersections) alongside the corresponding user perceptions, concerns, and comprehension of these developments. 
 
 
+<p><b>Looking for CMPUT 626 - A2 Fall term?</b> <a href="https://bkacsmar.github.io//MLandPracticalPrivacy/">Try here</a> </p>
+
 <!-- 
  <p align="right">
 <img src="/files/research_overview_web.png" alt="Research Overview" width="400"> 
