@@ -11,7 +11,7 @@ Technical privacy systems define what is being protected, from who, and under wh
 Currently seeking students (Masters and PhD Students) to start in Fall 2024. In particular, if you are interested in research on human-centered design of privacy-preserving machine learning, consider applying. Projects in this group include human-computer interaction (HCI) studies as well as the design and evaluation of privacy-preserving machine learning protocols. 
 <br/><br/>
 
- Application instructions for the University of Alberta graduate sutdies program can be found [here](https://www.ualberta.ca/computing-science/graduate-studies/programs-and-admissions/applications-and-admissions/index.html)
+ Application instructions for the University of Alberta graduate studies program can be found [here](https://www.ualberta.ca/computing-science/graduate-studies/programs-and-admissions/applications-and-admissions/index.html)
 
  
 <h2>What is PUPS?</h2>
