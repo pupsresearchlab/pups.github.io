@@ -48,7 +48,7 @@ August 2023, "Features of Privacy Context in Multiparty Data Sharing", 2023 BIRS
 
 July 6, 2023 "Human-Centred Privacy in Machine Learning", ZISC Seminar Series, Zurich, Switzerland. 
 
-May 24, 2023 "Beyond Data Privacy for Machine Learning", 2023 Upper Bound Academic Symposium, AMII, Edmonton, Alberta. 
+May 24, 2023 "Beyond Data Privacy for Machine Learning", 2023 Upper Bound Academic Symposium, Amii, Edmonton, Alberta. 
 <!-- [Slides](https://bkacsmar.github.io/files/Amii_privacyML_2023.pdf) -->
 
 May 5, 2023 "Improving Interactive Instruction", Math Teaching Colloquium at 2023 MAA Seaway Section, Waterloo, Ontario.
