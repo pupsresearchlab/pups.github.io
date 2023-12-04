@@ -6,7 +6,7 @@ author_profile: true
 
 <h2>Publications</h2>
 
-<b>Bailey Kacsmar</b>, Vasisht Duddu, Kyle Tilbury, Blase Ur, and Florian Kerschbaum. &quot;Comprehension from Chaos: Towards Informed Consent for Private Computation&quot;. 2023 ACM SIGSAC Conference on Computer and Communications Security. Accepted. ([Preprint](https://bkacsmar.github.io/files/comprehensionfromchaospreprint.pdf)) ([Slides](https://bkacsmar.github.io/files/BkacsmarCCS2023ComprehensionfromChaos.pdf))
+<b>Bailey Kacsmar</b>, Vasisht Duddu, Kyle Tilbury, Blase Ur, and Florian Kerschbaum. &quot;[Comprehension from Chaos: Towards Informed Consent for Private Computation](https://bkacsmar.github.io/files/comprehensionfromchaospreprint.pdf)&quot;. 2023 ACM SIGSAC Conference on Computer and Communications Security, pp 210-244. ([Slides](https://bkacsmar.github.io/files/BkacsmarCCS2023ComprehensionfromChaos.pdf))
 
 
  <b>Bailey Kacsmar</b>. &quot;[Improving Interactive Instruction: Faculty Engagement Requires Starting Small and Telling All](https://bkacsmar.github.io/files/bkacsmar_Koli_Calling_Short_preprint.pdf)&quot;. Koli Calling 22nd International Conference on Computing Education Research. November 2022. ACM. ([Slides](https://bkacsmar.github.io/files/pres_Koli2023.pdf))
