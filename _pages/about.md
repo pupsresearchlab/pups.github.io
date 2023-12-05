@@ -42,7 +42,7 @@ Reminder you can use the PoPETs nomination form [here](https://docs.google.com/f
 <b>Upcoming and Recent Talks</b><br/>
 November 2023, "Comprehension from Chaos: Towards Informed Consent for Private Computation", ACM CCS 2023, Copenhagen, Denmark.
 
-October 2023, "Privacy and AI in Society", Edmonton, Alberta. 
+October 2023, "Privacy and AI in Society", Amii DevCon Keynote, Edmonton, Alberta. 
 
 August 2023, "Features of Privacy Context in Multiparty Data Sharing", 2023 BIRS Workshop on Contextual Integrity for Differential Privacy. Banff International Research Station UBC Okanagan Campus, Canada.
 
