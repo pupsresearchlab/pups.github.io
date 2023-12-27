@@ -8,7 +8,7 @@ author_profile: true
 Technical privacy systems define what is being protected, from who, and under what conditions this protection will hold. We focus on developing privacy enhancing systems using human-centered design. That is, when developing technical privacy protocols, we take a wider view of privacy. We aim to develop privacy enhancing technologies informed by the end privacy goals of the entities who can be effected by whether their data is used in such systems.
 
 <h2>People in PUPS</h2>
-Currently seeking students (Masters and PhD Students) to start in Fall 2024. In particular, if you are interested in research on human-centered design of privacy-preserving machine learning, consider applying. Projects in this group include human-computer interaction (HCI) studies as well as the design and evaluation of privacy-preserving machine learning protocols. 
+Currently seeking students (Masters and PhD Students) to start in Fall 2024. 
 <br/><br/>
 
  Application instructions for the University of Alberta graduate studies program can be found [here](https://www.ualberta.ca/computing-science/graduate-studies/programs-and-admissions/applications-and-admissions/index.html)
