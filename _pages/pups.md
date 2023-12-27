@@ -8,11 +8,11 @@ author_profile: true
 Technical privacy systems define what is being protected, from who, and under what conditions this protection will hold. We focus on developing privacy enhancing systems using human-centered design. That is, when developing technical privacy protocols, we take a wider view of privacy. We aim to develop privacy enhancing technologies informed by the end privacy goals of the entities who can be effected by whether their data is used in such systems.
 
 <h2>People in PUPS</h2>
-Currently seeking students (Masters and PhD Students) to start in Fall 2024. 
+Currently seeking students (Masters and PhD Students) to start in Fall 2024. Application instructions for the University of Alberta graduate studies program can be found [here](https://www.ualberta.ca/computing-science/graduate-studies/programs-and-admissions/applications-and-admissions/index.html)
 <br/><br/>
 
- Application instructions for the University of Alberta graduate studies program can be found [here](https://www.ualberta.ca/computing-science/graduate-studies/programs-and-admissions/applications-and-admissions/index.html)
-
+<b>Current Students:</b>
+TBA, coming soon.
  
 <h2>What is PUPS?</h2>
 What is practical usable privacy and security? Well, breaking it down a bit, it is made up of the following:
