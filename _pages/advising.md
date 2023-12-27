@@ -5,7 +5,7 @@ author_profile: true
 ---
 
 <h1> Advising</h1>
-I am currently seeking interested graduate students to start in September 2024. 
+I am currently seeking interested graduate students to start in September 2024. In particular, if you are interested in research on human-centered design of privacy-preserving machine learning, consider applying. Projects in this group include human-computer interaction (HCI) studies as well as the design and evaluation of privacy-preserving machine learning protocols. 
 
 <h1>Frequently Asked Questions</h1>
 <ul>
@@ -14,6 +14,6 @@ I am currently seeking interested graduate students to start in September 2024.
   
   <li><b>Why a master's?</b> Here at UAlberta, and many schools in Canada, a thesis based masters is like a "mini-PhD" (and thus still funded). You will do fewer courses, do research, and produce a thesis, but smaller; because it is within two years.</li>
    <li><b>How do I apply?</b> University of Alberta admission process can be found <a href="https://www.ualberta.ca/computing-science/graduate-studies/programs-and-admissions/index.html">at this link</a> That page also has some information related to study permits if you are an international student.</li>
-   <li><b>How do I reach out to you?</b> My email can be found linked on my webpage or in the University of Alberta directory. I, unfortunately, cannot guarantee I will respond to all emails; simply due to the number of them. </li>
+   <li><b>How do I reach out to you?</b> My email can be found linked on my webpage or in the University of Alberta directory. I, unfortunately, cannot guarantee I will respond to all emails; simply due to the number of them. Note that I cannot and will not guarantee admissions. I also will not review application materials in advance.</li>
   <li><b>Do my research interests fit within the PUPS group?</b> I have an overview of <a href="https://bkacsmar.github.io/pups/">the research in PUPS</a>. In short, while there is a range of research that falls under this umbrella, it will all include privacy and/or security.</li>
 </ul>
