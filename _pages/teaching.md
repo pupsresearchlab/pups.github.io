@@ -6,7 +6,7 @@ author_profile: true
 
 <h2>Current Courses</h2>
 
-[Machine Learning](https://www.ualberta.ca/computing-science/graduate-studies/course-directory/courses/machine-learning.html) in Winter term 2024, University of Alberta
+[Machine Learning](https://www.ualberta.ca/computing-science/graduate-studies/course-directory/courses/machine-learning.html) in Winter term 2024, [W24 Syllabus](https://bkacsmar.github.io//files/466566_Syllabus_Jan8_corr.pdf), University of Alberta
 
 <h2>Past Course Offerings</h2>
 
