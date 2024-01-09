@@ -8,6 +8,8 @@ author_profile: true
 
 [Machine Learning](https://www.ualberta.ca/computing-science/graduate-studies/course-directory/courses/machine-learning.html) in Winter term 2024, [W24 Syllabus](https://bkacsmar.github.io//files/466566_Syllabus_Jan8_corr.pdf), University of Alberta
 
+Slides: [Jan9](https://bkacsmar.github.io//files/W24_466566_Day1.pdf)
+
 <h2>Past Course Offerings</h2>
 
 [Machine Learning and Practical Privacy](https://bkacsmar.github.io//MLandPracticalPrivacy/) in Fall term 2023, University of Alberta
