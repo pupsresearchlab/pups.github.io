@@ -12,7 +12,7 @@ Currently seeking students (Masters and PhD Students) to start in Fall 2024. App
 <br/><br/>
 
 <b>Current Students:</b>
-TBA, coming soon.
+Rabeya Bosri (MSc)
  
 <h2>What is PUPS?</h2>
 What is practical usable privacy and security? Well, breaking it down a bit, it is made up of the following:
