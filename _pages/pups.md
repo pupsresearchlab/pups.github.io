@@ -8,7 +8,8 @@ author_profile: true
 Technical privacy systems define what is being protected, from who, and under what conditions this protection will hold. We focus on developing privacy enhancing systems using human-centered design. That is, when developing technical privacy protocols, we take a wider view of privacy. We aim to develop privacy enhancing technologies informed by the end privacy goals of the entities who can be effected by whether their data is used in such systems.
 
 <h2>People in PUPS</h2>
-Rabeya Bosri (MSc)
+
+[Rabeya Bosri](https://bosri.my.canva.site/) (MSc)
 
  
 <h2>What is PUPS?</h2>
