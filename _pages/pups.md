@@ -10,6 +10,7 @@ Technical privacy systems define what is being protected, from who, and under wh
 <h2>People in PUPS</h2>
 
 [Rabeya Bosri](https://bosri.my.canva.site/) (MSc)
+Afari Darfoor (MSc)
 
  
 <h2>What is PUPS?</h2>
