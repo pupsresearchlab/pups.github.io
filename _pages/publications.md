@@ -6,6 +6,8 @@ author_profile: true
 
 <h2>Publications</h2>
 
+Abdulrahman Diaa, Lucas Fenaux, Thomas Humphries, Marian Dietz, Faezeh Ebrahimianghazani, <b>Bailey Kacsmar</b>, Xinda Li, Nils Lukas, Rasoul Akhavan Mahdavi, Simon Oya, Ehsan Amjadian and Florian Kerschbaum. &quot;Fast and Private Inference of Deep Neural Networks by Co-designing Activation Functions&quot;. To appear at The 33rd USENIX Security Symposium (USENIX Security 2024).
+
 <b>Bailey Kacsmar</b>, Vasisht Duddu, Kyle Tilbury, Blase Ur, and Florian Kerschbaum. &quot;[Comprehension from Chaos: Towards Informed Consent for Private Computation](https://bkacsmar.github.io/files/comprehensionfromchaospreprint.pdf)&quot;. 2023 ACM SIGSAC Conference on Computer and Communications Security, pp 210-244. ([Slides](https://bkacsmar.github.io/files/BkacsmarCCS2023ComprehensionfromChaos.pdf))
 
 
