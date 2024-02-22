@@ -12,7 +12,10 @@ main:
  
   - title: "PUPS"
     url: /pups/
-   
+
+    
+  - title: "Calendar"
+    url: /calendar/
     
   - title: "CV"
     url: /files/websiteversion_Dec20.pdf
