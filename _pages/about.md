@@ -48,17 +48,19 @@ October 2023, "Privacy and AI in Society", Amii DevCon Keynote, Edmonton, Albert
 
 August 2023, "Features of Privacy Context in Multiparty Data Sharing", 2023 BIRS Workshop on Contextual Integrity for Differential Privacy. Banff International Research Station UBC Okanagan Campus, Canada.
 
+<!-- 
 July 2023 "Human-Centred Privacy in Machine Learning", ZISC Seminar Series, Zurich, Switzerland. 
 
+<!-- 
 May 2023 "Beyond Data Privacy for Machine Learning", 2023 Upper Bound Academic Symposium, Amii, Edmonton, Alberta. 
-<!-- [Slides](https://bkacsmar.github.io/files/Amii_privacyML_2023.pdf) -->
+[Slides](https://bkacsmar.github.io/files/Amii_privacyML_2023.pdf)  
 
 May 2023 "Improving Interactive Instruction", Math Teaching Colloquium at 2023 MAA Seaway Section, Waterloo, Ontario.
 <!--[Slides](https://bkacsmar.github.io/files/Math_ed_colloqium_2023.pdf)  -->
 
 
 <b>Erdös Number Trivia</b><br/>
-You can find Erdös trivia <a href="https://sites.google.com/oakland.edu/grossman/home/the-erdoes-number-project">here</a>, about what is an Erdös number and why the collaboration graphs are (mathematically) interesting. As a fun note, I have an Erdös numbre of 2. A co-author of Paul Erdös is said to have an Erdös number of 1, and there are 511 people with this number. One of them, Douglas R. Stinson, is a <a href="https://cs.uwaterloo.ca/~dstinson/coauthors.html">collaborator</a> of mine, which is why I have a two. Interestingly, your number (distance from Erdös via a collaboration graph), is liklely smaller than you may expect.  
+You can find Erdös trivia <a href="https://sites.google.com/oakland.edu/grossman/home/the-erdoes-number-project">here</a>, about what is an Erdös number and why the collaboration graphs are (mathematically) interesting. As a fun note, I have an Erdös numbre of 2. A co-author of Paul Erdös is said to have an Erdös number of 1, and there are 511 people with this number. One of them, Douglas R. Stinson, is a <a href="https://cs.uwaterloo.ca/~dstinson/coauthors.html">collaborator</a> of mine, which is why I have a two. Interestingly, your number (distance from Erdös via a collaboration graph), is likely smaller than you may expect.  
 
 
 <!-- <img src="/files/crysp-logo-word-clearbg-blackfg.png" alt="CrySP Logo" width="225" hspace="25"> 
