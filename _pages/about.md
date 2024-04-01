@@ -34,7 +34,7 @@ My research interests are broadly in the development and evaluation of human-cen
   <li> Symposium on Usable Privacy and Security (SOUPS) Program Committee 2024 </li>
   <li> AAAI Program Committee 2024</li>
   <li> PoPETs Program Committee 2023, 2024</li>
-  <li> PoPETS Artifact Committee co-chair 2022, 2023</li>
+<!--   <li> PoPETS Artifact Committee co-chair 2022, 2023</li> -->
 </ul>
 
 <!-- 
@@ -46,7 +46,7 @@ November 2023, "Comprehension from Chaos: Towards Informed Consent for Private C
 
 October 2023, "Privacy and AI in Society", Amii DevCon Keynote, Edmonton, Alberta. 
 
-August 2023, "Features of Privacy Context in Multiparty Data Sharing", 2023 BIRS Workshop on Contextual Integrity for Differential Privacy. Banff International Research Station UBC Okanagan Campus, Canada.
+<!-- August 2023, "Features of Privacy Context in Multiparty Data Sharing", 2023 BIRS Workshop on Contextual Integrity for Differential Privacy. Banff International Research Station UBC Okanagan Campus, Canada.-->
 
 <!-- 
 July 2023 "Human-Centred Privacy in Machine Learning", ZISC Seminar Series, Zurich, Switzerland. 
