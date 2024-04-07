@@ -60,7 +60,7 @@ May 2023 "Improving Interactive Instruction", Math Teaching Colloquium at 2023 M
 
 
 <b>Erdös Number Trivia</b><br/>
-You can find Erdös trivia <a href="https://sites.google.com/oakland.edu/grossman/home/the-erdoes-number-project">here</a>, about what is an Erdös number and why the collaboration graphs are (mathematically) interesting. As a fun note, I have an Erdös numbre of 2. A co-author of Paul Erdös is said to have an Erdös number of 1, and there are 511 people with this number. One of them, Douglas R. Stinson, is a <a href="https://cs.uwaterloo.ca/~dstinson/coauthors.html">collaborator</a> of mine, which is why I have a two. Interestingly, your number (distance from Erdös via a collaboration graph), is likely smaller than you may expect.  
+You can find Erdös trivia <a href="https://sites.google.com/oakland.edu/grossman/home/the-erdoes-number-project">here</a>, about what is an Erdös number and why the collaboration graphs are (mathematically) interesting. As a fun note, I have an Erdös number of 2. A co-author of Paul Erdös is said to have an Erdös number of 1, and there are 511 people with this number. One of them, Douglas R. Stinson, is a <a href="https://cs.uwaterloo.ca/~dstinson/coauthors.html">collaborator</a> of mine, which is why I have a two. Interestingly, your number (distance from Erdös via a collaboration graph), is likely smaller than you may expect.  
 
 
 <!-- <img src="/files/crysp-logo-word-clearbg-blackfg.png" alt="CrySP Logo" width="225" hspace="25"> 
