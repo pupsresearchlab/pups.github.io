@@ -15,6 +15,8 @@ Your masters degree is roughly speaking between one and two years. I am specific
 
 <b>Year One:</b>
 
+<b>Year Two:</b>
+
 
  <h3>PhD Specific</h3>
 A PhD is a marathon...or a long stretch made of many different sprints. What this really means is it takes a long time, and often times the only check points you really have across those four to six years are the ones you (hopefully with your advisor) set. 
