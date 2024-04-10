@@ -29,3 +29,11 @@ Your masters degree is roughly speaking between one and two years. I am specific
 <b>Year Four: </b>
 
 <b>Year Five (+): </b>
+
+
+
+{% include base_path %}
+
+{% for post in site.expectations reversed %}
+  {% include archive-single.html %}
+{% endfor %}
