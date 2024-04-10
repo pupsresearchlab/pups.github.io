@@ -5,12 +5,13 @@ author_profile: true
 ---
 
 <h2>Current Courses</h2>
+TBA
 
-[Machine Learning](https://www.ualberta.ca/computing-science/graduate-studies/course-directory/courses/machine-learning.html) in Winter term 2024, [W24 Syllabus](https://bkacsmar.github.io//files/466566_Syllabus_Jan8_corr.pdf), University of Alberta
-
-Slides: [Jan9](https://bkacsmar.github.io//files/W24_466566_Day1.pdf), [Jan11](https://bkacsmar.github.io//files/W24_466566_Day2slides.pdf), [Jan16](https://bkacsmar.github.io//files/W24_466566_Day3.pdf), [Jan18](https://bkacsmar.github.io//files/W24_466566_Day4.pdf)
 
 <h2>Past Course Offerings</h2>
+
+[Machine Learning](https://www.ualberta.ca/computing-science/graduate-studies/course-directory/courses/machine-learning.html) in Winter term 2024, [Syllabus](https://bkacsmar.github.io//files/466566_Syllabus_Jan8_corr.pdf), University of Alberta
+
 
 [Machine Learning and Practical Privacy](https://bkacsmar.github.io//MLandPracticalPrivacy/) in Fall term 2023, University of Alberta
 
@@ -23,7 +24,7 @@ Slides: [Jan9](https://bkacsmar.github.io//files/W24_466566_Day1.pdf), [Jan11](h
 
 [Introduction to Cryptography 2](https://bkacsmar.github.io//files/introcrypto2.pdf)
 
-
+[Intro to ML 1](https://bkacsmar.github.io//files/W24_466566_Day1.pdf), [Intro to ML 2](https://bkacsmar.github.io//files/W24_466566_Day2slides.pdf), [Intro to ML 3](https://bkacsmar.github.io//files/W24_466566_Day3.pdf), [Intro to ML 4](https://bkacsmar.github.io//files/W24_466566_Day4.pdf)
 
 
 <h2>Teaching Education</h2>
