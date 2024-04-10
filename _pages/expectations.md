@@ -10,7 +10,7 @@ First of all, understand that this is directed at security and privacy researche
 <h3>Masters Specific</h3>
 Your masters degree is roughly speaking between one and two years. I am specifically refering to the Canadian style of a thesis-based masters degree here. In this degree you will complete a set of courses (here at UofA, this is four) as well as complete a research thesis. 
 
-<b>Year One: </b>
+<b>Year One: </b> Course...
 
 <b>Year Two: </b>
 
