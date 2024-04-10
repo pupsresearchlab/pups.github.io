@@ -12,6 +12,7 @@ If something exists as a list item, but doesn't have a link yet, I just haven't 
   <li>Related work</li>
   <li>Technical notions of privacy</li>
   <li>Usability notions for privacy</li>
+  <li>Security and privacy venues</li>
 </ul>
 
 
