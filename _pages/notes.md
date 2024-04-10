@@ -5,6 +5,7 @@ author_profile: true
 ---
 
 <h2>Notes</h2>
+If something exists as a list item, but doesn't have a link yet, I just haven't written it yet. 
 
 <h3>Research</h3>
 <ul>
