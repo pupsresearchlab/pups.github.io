@@ -18,6 +18,6 @@ If something exists as a list item, but doesn't have a link yet, I just haven't 
 
 <h3>Grad School</h3>
 <ul>
-  <li><a href="https://bkacsmar.github.io//expectations/">Expectations during your degree</a></li>
+  <li><a href="https://bkacsmar.github.io//expectationsforstudents/">Expectations during your degree</a></li>
   <li>Applying to Grad School</li>
 </ul>
