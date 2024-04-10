@@ -9,6 +9,7 @@ I am currently seeking interested graduate students to start in September 2024. 
 
 <h1>Frequently Asked Questions</h1>
 <ul>
+  <li><b>Can I do research in your lab as a volunteer?</b> Under no circumstances will I ever support exploiting student labour for research. You are more than welcome to attend my students talks for your own interest. All research assistant positions in my group are paid, and if there is no funding available there are no positions available. </li> 
   <li><b>Can I do research in (insert field here) in this group?</b> While the research in this group is fairly broad, it is in computer science. It can intersect with many fields (math, health, law) and fit well, but it is still computer science. This includes any of empirical software/algorithm evaluation, algorithm design, protocol design, qualitative/quantitative user studies (HCI), etc. </li>
    <li><b>Is it funded?</b> In general, "most" research based computer science master's and PhD programs in Canada are funded. You can find more information <a href="https://www.ualberta.ca/computing-science/undergraduate-studies/financial-support-and-awards.html">at this link</a>. Postdocs are also funded of course. Undergraduate research may be funded or may be work within a directed study course for university credit. </li>
   
