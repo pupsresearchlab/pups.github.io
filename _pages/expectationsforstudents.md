@@ -13,6 +13,9 @@ First of all, understand that this is directed at security and privacy researche
 Your masters degree is roughly speaking between one and two years. I am specifically refering to the Canadian style of a thesis-based masters degree here. In this degree you will complete a set of courses (here at UofA, this is four) as well as complete a research thesis.  <br/>
 
 <b>Year One:</b>
+Welcome!! It's your first year of grad school! It can be all kind of things. Exciting! Stressful! The whole range. At the start, you will be working on your courses. At this stage, during the first two terms of this year, ANY research is awesome. But it is also okay if the only research you do is via your classes and participating in our research groups meetings. The following is a rough idea of a "good" norm. You might find you can do more (do what works for you). You might find it a bit of a struggle. The idea is, if you are doing these things, you are meeting expectations, you're doing well, and don't worry whether you "should" be doing more. 
+
+
 
 <b>Year Two:</b>
 
