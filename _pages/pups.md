@@ -17,7 +17,7 @@ Technical privacy systems define what is being protected, from who, and under wh
 
 <h3>Research Assistants</h3>
 Jialiang (Chuck) Yan, (UGRA)
-
+Farishta Kabir
 
 <!--<h3>Alumni</h3>-->
  
