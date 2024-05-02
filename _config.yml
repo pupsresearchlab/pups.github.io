@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "PUPS Reserarch Lab"
-  avatar           :  
+  avatar           :  "pups_puppy.jpg"
   bio              : "at University of Alberta"
   location         : "Edmonton, Canada"
   employer         :
@@ -175,7 +175,9 @@ kramdown:
 
 # Collections
 collections:
-
+People:
+    output: true
+    permalink: /:collection/:path/
 
 # Defaults
 defaults:
