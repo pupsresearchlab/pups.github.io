@@ -1,11 +1,7 @@
 ---
-permalink: /
 title: ""
-excerpt: "People"
+permalink: /people/
 author_profile: true
-redirect_from: 
-  - /people/
-  - /people.html
 ---
 
 <h2>People in PUPS</h2>
