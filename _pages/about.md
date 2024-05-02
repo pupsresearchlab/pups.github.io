@@ -8,10 +8,12 @@ redirect_from:
   - /about.html
 ---
 
-PUPS: Practical Usable Privacy and Security Research Lab
-
 <b>About</b><br/>
 UNDER CONSTRUCITON
+
+PUPS: Practical Usable Privacy and Security Research Lab
+
+
 
  
 <!-- <img src="/files/crysp-logo-word-clearbg-blackfg.png" alt="CrySP Logo" width="225" hspace="25"> 
