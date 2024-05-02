@@ -82,11 +82,11 @@ analytics:
 author:
   name             : "PUPS Reserarch Lab"
   avatar           :  
-  bio              : "Practical Usable Privacy and Security"
+  bio              : "at University of Alberta"
   location         : "Edmonton, Canada"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "https://scholar.google.ca/citations?hl=en&user=QZLnUAzKwpcC&sortby=pubdate"
+  googlescholar    :  
   email            :  
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
@@ -109,7 +109,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "bkacsmar"
+  twitter          :  
   vine             :
   weibo            :
   xing             :
