@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Bailey Kacsmar"
+title                    : "PUPS"
 title_separator          : "-"
-name                     : &name "Bailey Kacsmar"
-description              : &description "Bailey Kacsmar"
-url                      : https://bkacsmar.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+name                     : &name ""
+description              : &description "PUPS"
+url                      : https://pupsresearchlab.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "bkacsmar.github.io/"
+repository               : "pupsresearchlab.github.io/"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : #160
@@ -80,14 +80,14 @@ analytics:
 
 # Site Author
 author:
-  name             : "Bailey Kacsmar"
-  avatar           : "profImgSep23.jpg"
-  bio              : "Assistant Professor at University of Alberta"
+  name             : "PUPS Reserarch Lab"
+  avatar           :  
+  bio              : "Practical Usable Privacy and Security"
   location         : "Edmonton, Canada"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.ca/citations?hl=en&user=QZLnUAzKwpcC&sortby=pubdate"
-  email            : kacsmar@ualberta.ca
+  email            :  
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
