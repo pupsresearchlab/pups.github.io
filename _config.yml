@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Bailey Kacsmar"
+title                    : "PUPS Research Lab"
 title_separator          : "-"
-name                     : &name "Bailey Kacsmar"
+name                     : &name "PUPS"
 description              : &description "PUPS"
 url                      : https://pupsresearchlab.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
