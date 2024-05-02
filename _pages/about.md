@@ -1,12 +1,13 @@
 ---
 permalink: /
 title: ""
-excerpt: "About PUPS"
+excerpt: "About me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
+
 
 <b>About</b><br/>
 UNDER CONSTRUCITON
