@@ -9,10 +9,10 @@ redirect_from:
 ---
 
 
-<b>About</b><br/>
-UNDER CONSTRUCITON
+<h3>PUPS: Practical Usable Privacy and Security Research Lab</h3>
+Technical privacy systems define what is being protected, from who, and under what conditions this protection will hold. We focus on developing privacy enhancing systems using human-centered design. That is, when developing technical privacy protocols, we take a wider view of privacy. We aim to develop privacy enhancing technologies informed by the end privacy goals of the entities who can be effected by whether their data is used in such systems.
 
-PUPS: Practical Usable Privacy and Security Research Lab
+
 
 
 
